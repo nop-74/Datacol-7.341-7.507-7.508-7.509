@@ -5,7 +5,7 @@
 # Datacol 7.509 — новая версия с улучшенным загрузчиком и мощным инструментом AI Picker
 
 ![Alt text](https://github.com/nop-74/Datacol-7.341-7.507-7.508-7.509/blob/main/6.jpg)
-
+<video src="http://a90009qs.beget.tech/video/759.mp4" controls="controls" style="max-width: 730px;"> </video>
 ##  [СКАЧАТЬ DATACOL 7.509 ](https://clck.ru/3RdWwh)
 ##  [ВЫБРАТЬ ВЕРСИЮ ДЛЯ ПОКУПКИ ](https://github.com/nop-74/Datacol-7.341-7.507-7.508-7.509/releases)
 **Datacol 7.509  (2026)**
