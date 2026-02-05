@@ -5,7 +5,7 @@
 # Datacol 7.509 — новая версия с улучшенным загрузчиком и мощным инструментом AI Picker
 
 ![Alt text](https://github.com/nop-74/Datacol-7.341-7.507-7.508-7.509/blob/main/6.jpg)
-<video src="http://a90009qs.beget.tech/video/759.mp4" controls="controls" style="max-width: 730px;"> </video>
+[![Смотреть видео обзор](http://a90009qs.beget.tech/video/00001.png)](https://vkvideo.ru/video-220322098_456239023)
 ##  [СКАЧАТЬ DATACOL 7.509 ](https://clck.ru/3RdWwh)
 ##  [ВЫБРАТЬ ВЕРСИЮ ДЛЯ ПОКУПКИ ](https://github.com/nop-74/Datacol-7.341-7.507-7.508-7.509/releases)
 **Datacol 7.509  (2026)**
@@ -33,7 +33,7 @@
 
 - Инструмент позволяет:
 
-  [![Alt text for your video](http://a90009qs.beget.tech/video/3.jpg)](https://vkvideo.ru/video-220322098_456239023)
+[![Смотреть видео обзор](http://a90009qs.beget.tech/video/00001.png)](https://vkvideo.ru/video-220322098_456239023)
 
 - загружать нужную страницу сайта в встроенный браузер,
 - визуально выбирать элементы для сбора (цены, названия, ссылки, изображения),
